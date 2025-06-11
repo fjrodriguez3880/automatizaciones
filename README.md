@@ -1,2 +1,2 @@
 # automatizaciones
-Respositorio para doucmentacion de automatizaciones
+Respositorio para documentación de automatizaciones
